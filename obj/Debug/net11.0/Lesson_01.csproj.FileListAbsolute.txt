@@ -1,0 +1,16 @@
+D:\DotNet\Lesson_01\bin\Debug\net11.0\Lesson_01.exe
+D:\DotNet\Lesson_01\bin\Debug\net11.0\Lesson_01.deps.json
+D:\DotNet\Lesson_01\bin\Debug\net11.0\Lesson_01.runtimeconfig.json
+D:\DotNet\Lesson_01\bin\Debug\net11.0\Lesson_01.runtimeconfig.dev.json
+D:\DotNet\Lesson_01\bin\Debug\net11.0\Lesson_01.dll
+D:\DotNet\Lesson_01\bin\Debug\net11.0\Lesson_01.pdb
+D:\DotNet\Lesson_01\obj\Debug\net11.0\Lesson_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Lesson_01\obj\Debug\net11.0\Lesson_01.AssemblyInfoInputs.cache
+D:\DotNet\Lesson_01\obj\Debug\net11.0\Lesson_01.AssemblyInfo.cs
+D:\DotNet\Lesson_01\obj\Debug\net11.0\Lesson_01.csproj.CoreCompileInputs.cache
+D:\DotNet\Lesson_01\obj\Debug\net11.0\Lesson_01.dll
+D:\DotNet\Lesson_01\obj\Debug\net11.0\refint\Lesson_01.dll
+D:\DotNet\Lesson_01\obj\Debug\net11.0\Lesson_01.pdb
+D:\DotNet\Lesson_01\obj\Debug\net11.0\Lesson_01.genruntimeconfig.cache
+D:\DotNet\Lesson_01\obj\Debug\net11.0\ref\Lesson_01.dll
+D:\DotNet\Lesson_01\obj\Debug\net11.0\Lesson_01.csproj.Up2Date
